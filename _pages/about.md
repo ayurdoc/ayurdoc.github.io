@@ -19,7 +19,7 @@ comments: false
 
 <p>You can <a target="_blank" href="/about">Consult</a> Dr. Raksha here.</p>
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Consultation</a>
+<a target="_blank" href="https://www.practo.com/bangalore/doctor/dr-raksha-suvarna-gynecologist-obstetrician" class="btn btn-warning">Consultation</a>
 
 </div>
 </div>
