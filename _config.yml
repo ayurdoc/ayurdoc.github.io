@@ -2,8 +2,8 @@
 name: "Dr. Raksha Suvarna"
 title: "Dr. Raksha Suvarna"
 description: ""
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/rs.png'
+favicon: 'assets/images/rs.png'
 baseurl: ''
 #google_analytics: 'UA-46278016-1'
 #disqus: 'demowebsite'
@@ -13,6 +13,10 @@ permalink: /:title/
 
 # Authors
 authors:
+  raksha:
+    name: Dr. Raksha
+    display_name: Dr. Raksha
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
   sal:
     name: Dr. Raksha
     display_name: Dr. Raksha
