@@ -10,64 +10,75 @@ toc: true
 ---
 ### Introduction
 To understand the menstrual cycle diet, you should know the three phases which we come across during the menstrual cycle. They are:
-+ Menstrual phase/ follicular phase
++ Menstrual phase/Follicular phase
 + Ovulation phase
 + Luteal phase
+
 Each phase has a different hormonal effects on the body and mind. This variation in the hormone level during each phase will help the follicle (egg) to develop, mature, and ovulate (release an egg from ovaries). When there is no fertilization of an egg (no pregnancy) then all the hormonal levels decrease and the inner lining of the uterus is shed off and causing bleeding from the vagina. 
 
 ### Benefit of Menstrual cycle Diet and Exercise
-The hormone plays a vital role in regularising the cycles. Eating has a lot to do with your menstrual health. Following the right diet and exercise can bring a wide range of health benefits as well as balance your hormones and helps in reducing menstrual cramps, regulate your cycle, reduce premenstrual symptoms, and more. 
+The hormone plays a vital role in regularising the cycles. Eating has a lot to do with your menstrual health. Following the right diet and exercise can bring a wide range of health benefits as well as balance to your hormones and helps in reducing menstrual cramps, regulate your cycle, reduce premenstrual symptoms, and more. 
 
 ### Menstrual cycle Diet
 This table will navigate what food supports your hormones and cycles.
 
 <table>
 <thead>
-  <tr>
-    <th>Menstrual cycle phase</th>
-    <th>Diet</th>
-    <th>Duration</th>
-  </tr>
 </thead>
 <tbody>
-  <tr>
-    <td rowspan="5" style="vertical-align: top;"><b>Menstrual/Follicular phase<br>(Day 1-13 of the cycle)</b><br><br> Day 1-5, approx. 25-55ml of blood is lost from the body which is the menstrual phase, later it is followed by follicular phase and by day 5-7, one of the follicles(egg) starts to develop and matures.</td>
-    <td>Food rich in Iron like peanuts, walnuts, almonds, raisins, dates, pumpkin seeds, sesame seed, cooked beans, other legumes, dark green leafy vegetables, spinach, chicken, egg, milk, sea fish.</td>
-    <td>When periods occur, there is an amount of blood lost from the body and it has to be replaced by iron intake so that it prevents anemia.</td>
-  </tr>
-  <tr>
-    <td>Vitamin C- Orange, kiwi fruit, papaya, guavas, strawberries, pineapple, lemon, Indian gooseberries, bell pepper, broccoli, tomato, spinach.</td>
-    <td>When iron source meal is taken along with vitamin c, iron absorption is good.</td>
-  </tr>
-  <tr>
-    <td>Other food rich in Vit B12, Omega-3, flax seeds, herbal decoction, dark chocolate.</td>
-    <td>Helps in relieving premenstrual symptoms. Ease the menstrual flow.</td>
-  </tr> 
-  <tr>
-    <td>Avoid caffeinated drinks which include tea like green tea, black tea. Avoid aerated drinks, alcohol, salty food, junk food.</td>
-    <td>Caffeine can constrict the blood vessel and can worsen the menstrual cramps.Also minimizes the iron absorption.</td>
-  </tr>
-  <tr>
-    <td>After day 6, fermented food items like idly, dosa, barley, sprouts, a good amount of protein can be started.</td>
-    <td>These are oestrogen rich food and helps in the development and maturation of follicles.</td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="vertical-align: top;"><b>Ovulation phase<br>(Day 14-18 of the cycle)</b><br><br>Ovulation is when your ovary releases a mature egg. During this phase pregnancy occurs</td>
-    <td>Can increase your calorie intake with a high protein balanced diet.</td>
-    <td rowspan="2">Balances the hormones.</td>
-  </tr>
-  <tr>
-    <td>Can consume anti-inflammatory foods like almonds, walnut, whole vegetables, and fruits like strawberries, blueberries, cherries, oranges. Can include turmeric, ginger, pepper in your food.</td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="vertical-align: top;"><b>Luteal phase<br>(Day 19-28 of the cycle)</b><br><br>It starts after ovulation and ends with the first day of your period. This phase gives a chance to uterine lining to grow and develop enough to support a pregnancy</td>
-    <td>A fiber-rich diet like lentils, corn, pea, strawberries, oats, almonds, banana, chickpea, spinach, quinoa, apple, pear and also drink plenty of water.</td>
-    <td>During this phase due to the progesterone effect, few women are prone to constipation. Fiber-rich food can prevent bloating and constipation. </td>
-  </tr>
-  <tr>
-    <td>Magnesium-rich food pumpkin seeds, nuts like almond, walnut, dry roasted cashews, peanuts, avocado, legumes, dark chocolate, banana, spinach.</td>
-    <td>In the second half of the luteal phase (that is 7-10 days before your periods) there is a decrease in hormones which can cause mild premenstrual symptoms, which can be prevented by taking magnesium-rich food</td>
-  </tr>
+    <tr>
+        <td bgcolor="#FFDAB9" colspan="2" style="text-align:center"><b>Menstrual/Follicular phase<br>(Day 1-13 of the cycle)</b><br> Day 1-5, approx. 25-55ml of blood is lost from the body which is the menstrual phase, later it is followed by follicular phase and by day 5-7, one of the follicles(egg) starts to develop and matures.
+        </td>
+    </tr>
+    <tr>
+        <th>Diet</th>
+        <th>Benefits</th>
+    </tr>
+    <tr>
+        <td>Food rich in Iron like peanuts, walnuts, almonds, raisins, dates, pumpkin seeds, sesame seed, cooked beans, other legumes, dark green leafy vegetables, spinach, chicken, egg, milk, sea fish.</td>
+        <td>When periods occur, there is an amount of blood lost from the body and it has to be replaced by iron intake so that it prevents anemia.</td>
+    </tr>
+    <tr>
+        <td>Vitamin C- Orange, kiwi fruit, papaya, guavas, strawberries, pineapple, lemon, Indian gooseberries, bell pepper, broccoli, tomato, spinach.</td>
+        <td>When iron source meal is taken along with vitamin c, iron absorption is good.</td>
+    </tr>
+    <tr>
+        <td>Other food rich in Vit B12, Omega-3, flax seeds, herbal decoction, dark chocolate.</td>
+        <td>Helps in relieving premenstrual symptoms. Ease the menstrual flow.</td>
+    </tr> 
+    <tr>
+        <td>Avoid caffeinated drinks which include tea like green tea, black tea. Avoid aerated drinks, alcohol, salty food, junk food.</td>
+        <td>Caffeine can constrict the blood vessel and can worsen the menstrual cramps.Also minimizes the iron absorption.</td>
+    </tr>
+    <tr>
+        <td>After day 6, fermented food items like idly, dosa, barley, sprouts, a good amount of protein can be started.</td>
+        <td>These are oestrogen rich food and helps in the development and maturation of follicles.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#FFDAB9" colspan="2" style="text-align:center"><b>Ovulation phase<br>(Day 14-18 of the cycle)</b><br><br>Ovulation is when your ovary releases a mature egg. During this phase pregnancy occurs</td>
+    </tr>
+    <tr>
+        <th>Diet</th>
+        <th>Benefits</th>
+    </tr>
+    <tr>
+        <td>Can increase your calorie intake with a high protein balanced diet.</td>
+        <td rowspan="2">Balances the hormones.</td>
+    </tr>
+    <tr>
+        <td>Can consume anti-inflammatory foods like almonds, walnut, whole vegetables, and fruits like strawberries, blueberries, cherries, oranges. Can include turmeric, ginger, pepper in your food.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#FFDAB9" colspan="2" style="text-align:center"><b>Luteal phase<br>(Day 19-28 of the cycle)</b><br><br>It starts after ovulation and ends with the first day of your period. This phase gives a chance to uterine lining to grow and develop enough to support a pregnancy</td>
+    </tr>
+    <tr>
+        <td>A fiber-rich diet like lentils, corn, pea, strawberries, oats, almonds, banana, chickpea, spinach, quinoa, apple, pear and also drink plenty of water.</td>
+        <td>During this phase due to the progesterone effect, few women are prone to constipation. Fiber-rich food can prevent bloating and constipation. </td>
+    </tr>
+    <tr>
+        <td>Magnesium-rich food pumpkin seeds, nuts like almond, walnut, dry roasted cashews, peanuts, avocado, legumes, dark chocolate, banana, spinach.</td>
+        <td>In the second half of the luteal phase (that is 7-10 days before your periods) there is a decrease in hormones which can cause mild premenstrual symptoms, which can be prevented by taking magnesium-rich food</td>
+    </tr>
 </tbody>
 </table>
 <br>
