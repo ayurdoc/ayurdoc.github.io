@@ -25,15 +25,13 @@ This table will navigate what food supports your hormones and cycles.
 <thead>
   <tr>
     <th>Menstrual cycle phase</th>
-    <th>Average duration of 28 days</th>
     <th>Diet</th>
     <th>Duration</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="5"><b>Menstrual /Follicular phase</b><br><br> Day 1-5, approx. 25-55ml of blood is lost from the body which is the menstrual phase, later it is followed by follicular phase and by day 5-7, one of the follicles(egg) starts to develop and matures.</td>
-    <td rowspan="5">1-13 day of the cycle</td>
+    <td rowspan="5" style="vertical-align: top;"><b>Menstrual/Follicular phase<br>(Day 1-13 of the cycle)</b><br><br> Day 1-5, approx. 25-55ml of blood is lost from the body which is the menstrual phase, later it is followed by follicular phase and by day 5-7, one of the follicles(egg) starts to develop and matures.</td>
     <td>Food rich in Iron like peanuts, walnuts, almonds, raisins, dates, pumpkin seeds, sesame seed, cooked beans, other legumes, dark green leafy vegetables, spinach, chicken, egg, milk, sea fish.</td>
     <td>When periods occur, there is an amount of blood lost from the body and it has to be replaced by iron intake so that it prevents anemia.</td>
   </tr>
@@ -54,8 +52,7 @@ This table will navigate what food supports your hormones and cycles.
     <td>These are oestrogen rich food and helps in the development and maturation of follicles.</td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Ovulation phase</b><br><br>Ovulation is when your ovary releases a mature egg. During this phase pregnancy occurs</td>
-    <td rowspan="2">14-18 day of the cycle</td>
+    <td rowspan="2" style="vertical-align: top;"><b>Ovulation phase<br>(Day 14-18 of the cycle)</b><br><br>Ovulation is when your ovary releases a mature egg. During this phase pregnancy occurs</td>
     <td>Can increase your calorie intake with a high protein balanced diet.</td>
     <td rowspan="2">Balances the hormones.</td>
   </tr>
@@ -63,8 +60,7 @@ This table will navigate what food supports your hormones and cycles.
     <td>Can consume anti-inflammatory foods like almonds, walnut, whole vegetables, and fruits like strawberries, blueberries, cherries, oranges. Can include turmeric, ginger, pepper in your food.</td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Luteal phase</b><br><br>It starts after ovulation and ends with the first day of your period. This phase gives a chance to uterine lining to grow and develop enough to support a pregnancy</td>
-    <td rowspan="2">19-28 day of the cycle</td>
+    <td rowspan="2" style="vertical-align: top;"><b>Luteal phase<br>(Day 19-28 of the cycle)</b><br><br>It starts after ovulation and ends with the first day of your period. This phase gives a chance to uterine lining to grow and develop enough to support a pregnancy</td>
     <td>A fiber-rich diet like lentils, corn, pea, strawberries, oats, almonds, banana, chickpea, spinach, quinoa, apple, pear and also drink plenty of water.</td>
     <td>During this phase due to the progesterone effect, few women are prone to constipation. Fiber-rich food can prevent bloating and constipation. </td>
   </tr>
@@ -74,6 +70,7 @@ This table will navigate what food supports your hormones and cycles.
   </tr>
 </tbody>
 </table>
+<br>
 
 + When you see the table- most of the fruits, vegetables, nuts, legumes, chicken, fish milk, and milk products are rich in iron, magnesium, vitamins, zinc, protein, calcium, fiber which is very much essential not only for balancing your hormones, but also improves the general health condition. Therefore, having a balanced diet is of prime importance. 
 + Junk foods like a salted snack, sweetened carbonated beverages, bakery products, biscuits are high in salt, sugar, fat or calories and low in nutrients and are the contributing factors for painful periods, irregular cycles, premenstrual symptoms like headache, bloating of abdomen, constipation, lack of concentration, weight gain, irritability, mood swings. 
@@ -113,6 +110,7 @@ This table will tell you about the intensity of physical activity required durin
         </tr>
     </tbody>
 </table>
+<br>
 <br>
 
 ### Ayurvedic perceptive 
