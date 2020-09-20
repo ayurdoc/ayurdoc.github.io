@@ -7,6 +7,7 @@ image: assets/images/04.jpg
 featured: true
 hidden: true
 toc: true
+comments: true
 ---
 ### Introduction
 Many girls and women suffer from period pain, in medical terms it is called Dysmenorrhoea, which defines as painful menstruation to a sufficient extent that it interferes with day-to-day activities. Due to its high prevalence, it has been a major concern for many girls and women out there. We can see that it affects widely, ranging from 45% to 93% of women of reproductive age, and the highest rates are reported in adolescents. 

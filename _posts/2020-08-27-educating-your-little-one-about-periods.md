@@ -7,6 +7,7 @@ image: assets/images/02.jpg
 featured: true
 hidden: true
 toc: true
+comments: true
 ---
 ### Introduction 
 If your little one is growing up and approaching puberty, she is likely to feel anxious about her bodily changes. As menstruation topic is always surrounded by myths and taboo which impact girl's and women’s mental and emotional health and also her lifestyle. Talking about periods can make parents and kids feel awkward but finding a way to talk about the period in a confident manner can make a huge difference when she gets her periods. It is necessary to make them understand about puberty, menstruation, and reproductive health.

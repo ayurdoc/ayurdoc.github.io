@@ -7,6 +7,7 @@ image: assets/images/03.jpg
 featured: false
 hidden: false
 toc: true
+comments: true
 ---
 ### Introduction
 To understand the menstrual cycle diet, you should know the three phases which we come across during the menstrual cycle. They are:

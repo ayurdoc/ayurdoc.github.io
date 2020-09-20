@@ -7,6 +7,7 @@ image: assets/images/01.jpg
 featured: false
 hidden: false
 toc: true
+comments: true
 ---
 ### PCOS
 PCOS(Polycystic Ovarian Syndrome) is an endocrine disorder characterized by a set of associated symptoms like Irregular cycles, Acne, Hirsutism, Alopecia, many cyst formations in the ovaries which interferes with the reproductive, endocrine, and metabolic functions. 
