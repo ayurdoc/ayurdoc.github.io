@@ -59,7 +59,7 @@ Use of single herbs like Shatavari, Ashwangda, Kumari, Lodra, Udumbara, Twak (Ci
 
 Avoid caffeinated drinks which include tea like green tea, black tea. Caffeine can constrict the blood vessel and can worsen the menstrual cramps. Avoid aerated drinks, alcohol, salty food, junk food.
 
-Read the Menstrual cycle diet page to know more about the diet regimen. 
+Read the [Menstrual cycle diet](/what-to-eat-and-what-to-avoid-during-menstrual-cycle) page to know more about the diet regimen. 
  
 #### Physical activity
 Primary dysmenorrhea symptoms can be reduced by performing regular physical activity, which will in turn improve your health and quality of life. Yoga practice is very beneficial as it increases the blood circulation to the reproductive organs and establishes hormonal balance regulating menstruation. 
