@@ -27,7 +27,7 @@ In this table let us understand the causes for dysmenorrhoea
 | Causes| Leads to |
 | :------ | :------- |
 | Maximum production of prostaglandin hormone | Increase in myometrial contraction causing pain. |
-| Abnormal structural and functional defect of the uterus like uterine hypoplasia (small size uterus), under-development of Mullerian ducts, stenosis of internal os (narrow passage at the outlet) | Causing hyperactivity of the {::nomarkdown} <span class="definition" title="middle layer of the uterus" >myometrium</span>{:/} |
+| Abnormal structural and functional defect of the uterus like uterine hypoplasia (small size uterus), under-development of Mullerian ducts, stenosis of internal os (narrow passage at the outlet) | Causing hyperactivity of the {::nomarkdown} <span class="definition" title="middle layer of the uterus" >myometrium</span>{:/}(middle layer of the uterus) |
 | Increase the production of other hormones like vasopressin, endothelin, leukotrienes | Can also cause pain |
 | Due to tension and anxiety during adolescence | The pain threshold is often an attributing factor in pain perception. |
 {:.table}
@@ -53,8 +53,11 @@ A decoction prepared out of Shunti, Pippali, Mustha, Brahathi, Paatala herbs mix
 
 Decoction prepared out of 10grams of Dasamula Churna in 300ml of water and 100ml of milk, boil till it reduces to 3/4th. This is called as Dasamula Ksheerapaka. It is one of the best remedies for relieving pain.
 
-Use of single herbs like Shatavari, Ashwangda, Kumari, Lodra, Udumbara, Twak (Cinnamon) Ashoka, Anatamula, Manjista, Triphala, Bala, Haritaki, Eranda Taila (castor oil) are very useful in the case of Painful menstruation.
-
+{::nomarkdown}
+<div class="definition">
+Use of single herbs like Shatavari, Ashwangda, Kumari, Lodra, Udumbara, Twak (Cinnamon) Ashoka, Anatamula, Manjista, Triphala, Bala, Haritaki, <a><u class="udef">Eranda Taila</u><p>castor oil</p></a> are very useful in the case of Painful menstruation. </div>
+{:/}
+<br>
 1 tsp of Sukumara Gritha/ Plain cow ghee with one glass of hot water on an empty stomach every day for 3 months will also help in the case of Painful menstruation.
 
 Avoid caffeinated drinks which include tea like green tea, black tea. Caffeine can constrict the blood vessel and can worsen the menstrual cramps. Avoid aerated drinks, alcohol, salty food, junk food.

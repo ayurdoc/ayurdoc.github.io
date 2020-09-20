@@ -108,3 +108,12 @@ span.definition:hover {
 span.definition {
 	color: blue;
 }
+
+.definition a p {display:none; }
+.definition a:hover p {display:inline; background-color: yellow;}
+
+//Underline blue for definition
+.udef {
+	text-decoration-line: underline;
+	text-decoration-color: blue;
+  }
