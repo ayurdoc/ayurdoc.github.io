@@ -100,3 +100,11 @@
 
 td.rouge-code { width: 100%;}
 pre.lineno { color: #9999;}
+
+span.definition:hover {
+	background-color: yellow;
+	color: blue;
+  }
+span.definition {
+	color: blue;
+}
