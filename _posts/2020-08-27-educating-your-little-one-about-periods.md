@@ -29,5 +29,5 @@ So, there is nothing to feel dirty or impure when you hear about periods/menstru
 + Heavy bleeding and who tend to change pads within 2 hours are not normal.
 + Severe cramps and severe PMS are not normal.
 + Change pad/tampon every 4-6 hours and maintain local hygiene. 
-+ Have a balanced diet and indulging in physical activity helps to balance your hormone and thereby helps in regularising the cycle and reducing symptoms like cramps and PMS. To know more about the diet and exercise check the menstrual cycle diet and physical activity page. 
++ Having a balanced diet and indulging in physical activity helps to balance the hormone, which leads to regularising the cycle and reducing the symptoms like cramps and PMS. To know more about the diet and exercise check the [menstrual cycle diet and physical activity page](/what-to-eat-and-what-to-avoid-during-menstrual-cycle). 
 + In Ayurveda, we can find a lot of reference regarding, the regimen to be followed during the menstrual cycle, normal and abnormal menstrual cycle and the treatments. Herbs and diet mentioned in the ayurvedic texts work wonderfully in all the gynaecological disorders. 
