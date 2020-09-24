@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AYURVEDA CAN MANAGE PERIOD PAIN WITH NATURAL AND EFFECTIVE METHODS"
+title:  "Ayurvedic Tips To Manage Period Pain Naturally"
 author: raksha
 categories: [ Periods, Womens Health, Ayurveda ]
 image: assets/images/04.jpg

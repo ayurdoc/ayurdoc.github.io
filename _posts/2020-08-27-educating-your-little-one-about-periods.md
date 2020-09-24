@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EDUCATING YOUR LITTLE ONE ABOUT PERIODS"
+title:  "Educating Your Little One About Periods"
 author: raksha
 categories: [ Periods, Womens Health ]
 image: assets/images/02.jpg

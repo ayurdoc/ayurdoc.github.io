@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WHAT TO EAT AND WHAT TO AVOID DURING YOUR MENSTRUAL CYCLE"
+title:  "What To Eat And What To Avoid During Menstrual Cycle"
 author: raksha
 categories: [ Periods, Womens Health ]
 image: assets/images/03.jpg

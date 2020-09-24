@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WHAT EXACTLY IS PCOS? CAUSES, SYMPTOMS AND MORE"
+title:  "What is PCOS? Causes, Symptoms, Consequences and Management"
 author: raksha
 categories: [ PCOS, Womens Health ]
 image: assets/images/01.jpg
