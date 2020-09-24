@@ -44,15 +44,7 @@ post_class: post-template
                 <h1 class="posttitle">{{ page.title }}</h1>
 
                 <!-- Instagram Follow-->
-                <p> Follow <a href="instagram://user?username=dr.raksha.suvarna">Dr Raksha Suvarna</a> on
-                    <a href="https://instagram.com/dr.raksha.suvarna">
-                        <span style="font-size: 1.5rem;">
-                            <span style="color: indianred;">
-                            <i class="fab fa-instagram"></i>
-                            </span>
-                        </span>
-                    </a>
-                </p>
+                {% include instagram.html %}
 
             </div>
 
@@ -98,18 +90,10 @@ post_class: post-template
             {% endif %}
 
             <!-- Instagram Follow-->
-            <p>Follow <a href="https://instagram.com/dr.raksha.suvarna">Dr Raksha Suvarna</a> on
-                <a href="instagram://user?username=dr.raksha.suvarna">
-                    <span style="font-size: 1.5rem;">
-                        <span style="color: indianred;">
-                        <i class="fab fa-instagram"></i>
-                        </span>
-                    </span>
-                </a>
-            </p>
+            {% include instagram.html %}
 
             <!-- Facebook Page-->
-            <div style=" display: flex; justify-content: center;" class="fb-page" data-href="https://www.facebook.com/Dr-Raksha-Suvarna-103919638068822" data-tabs="" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Dr-Raksha-Suvarna-103919638068822" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Dr-Raksha-Suvarna-103919638068822">Dr Raksha Suvarna</a></blockquote></div>
+            {% include facebook.html %}
 
             <!-- Post Date -->
             <p>
