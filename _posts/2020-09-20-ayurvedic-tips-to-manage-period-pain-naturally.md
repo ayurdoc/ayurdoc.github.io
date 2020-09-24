@@ -42,8 +42,8 @@ In this table let us understand the causes for dysmenorrhoea
 
 Due to the above-mentioned causative factors, many girls and women experience painful menstruation, nausea, vomiting, diarrhoea, constipation, fainting, headache, exhaustion, and lethargy. This kind of painful menstruation can be managed with proper diet, exercise, simple herbs, and ayurvedic panchakarma therapies. 
 
-### Management
-Most of the time painful menstruation and PMS can be treated by following a simple Menstrual Cycle Diet and with some exercise. In few cases, the use of herbs and therapy would be required. 
+### Management - Ayurveda
+Most of the time painful menstruation and PMS can be treated by following a simple [Menstrual Cycle Diet](/what-to-eat-and-what-to-avoid-during-menstrual-cycle) and with some exercise. In few cases, the use of herbs and therapy would be required. 
 
 In Ayurveda, we have a reference for Dysmenorrhea as Udavarta Yonivyapath and Kastartava as a symptom in many gynaecological disorders. Considering this, treatment is planned in terms of dietary modulation, medications, and therapy.
 
