@@ -4,8 +4,8 @@ title:  "Ayurvedic Tips To Manage Period Pain Naturally"
 author: raksha
 categories: [ Periods, Womens Health, Ayurveda ]
 image: assets/images/04.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 toc: true
 comments: true
 ---

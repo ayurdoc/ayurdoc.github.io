@@ -48,3 +48,6 @@ PCOS women can tend to have complications in later life where she may develop Ty
 
 ### PCOS Management
 PCOS can be managed with a healthy lifestyle, improving psychological health and appropriate treatment. In the next post I will write more about managing PCOS.<!-- To know the ayurvedic treatment modality and suitable diet requirement, check out Manage PCOS page for more information which will brief about what and when to eat, how to improve your lifestyle and how to prevent long term complications. -->
+
+Picture Credit:
+<a href='https://www.freepik.com/vectors/floral'>Floral vector created by pikisuperstar - www.freepik.com</a>
