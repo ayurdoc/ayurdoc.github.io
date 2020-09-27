@@ -4,8 +4,8 @@ title:  "What To Eat And What To Avoid During Menstrual Cycle"
 author: raksha
 categories: [ Periods, Womens Health ]
 image: assets/images/03.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 toc: true
 comments: true
 ---
@@ -97,8 +97,8 @@ This table will tell about the intensity of physical activity required during yo
 <table>
     <thead>
         <tr>
-            <td bgcolor="#FFDAB9" style="text-align:center">MENSTRUAL CYCLE PHASE</td>
-            <td bgcolor="#FFDAB9" style="text-align:center">LEVEL OF PHYSICAL ACTIVITY</td>
+            <td bgcolor="#FFDAB9" style="text-align:center">Menstrual Cycle Phase</td>
+            <td bgcolor="#FFDAB9" style="text-align:center">Level Of Physical Activity</td>
         </tr>
     </thead>
     <tbody>
@@ -127,7 +127,6 @@ This table will tell about the intensity of physical activity required during yo
     </tbody>
 </table>
 <br>
-<br>
 
 ### Ayurvedic perceptive 
 + In Ayurvedic text, there are a lot of references regarding the Rutuchakra (menstrual cycle) and Stree Roga (all gynaecological disorders). In Rajaswalacharya (mode of living during menstruation) says that during the first 3 days of menstruation, females should take rest and should include Shali rice or Barley with cow ghee and milk in her meal for those 3 days. 
@@ -137,10 +136,10 @@ This table will tell about the intensity of physical activity required during yo
 + Massage your abdomen and back using sesame oil/castor oil/ coconut oil for 10mins and take fomentation using a hot bag will help relieve abdominal cramps.
  
 
-
 ### Few home remedies to ease the flow
 + Soak 10 grams of coriander seeds in 250ML of warm water. Keep it overnight. Consume the water on an empty stomach in the morning every day.
-+ Soak 5 grams of fenugreek seeds overnight in 250ML of warm water. Consume the water on an empty stomach in the morning every day.+ Add crushed fresh ginger into boiling water. Boil it for 2-5 minutes and consume this water.
++ Soak 5 grams of fenugreek seeds overnight in 250ML of warm water. Consume the water on an empty stomach in the morning every day.
++ Add crushed fresh ginger into boiling water. Boil it for 2-5 minutes and consume this water.
 + Add 20 grams of cumin seeds to 2 liters of water. Boil it. Keep drinking this water throughout the day. 
 + Take 1tsp of ghee (clarified butter) in one glass of hot water. Consume it on an empty stomach, one hour prior to breakfast. Doing this every day for 3 months will ease the flow. This is also very effective in case of painful menstruation. 
 + Take 1 tablespoon cumin seeds, 1/2 tablespoon pepper seeds, 2 tablespoon coriander seeds, dry roast them and grind it to a fine powder. Add this powder into 500 ml water and boil it for 2-3 minutes. Drink this water twice or thrice a day during Day 1-5 of your periods.

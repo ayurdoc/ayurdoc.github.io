@@ -4,8 +4,8 @@ title:  "What is PCOS? Causes, Symptoms, Consequences and Management"
 author: raksha
 categories: [ PCOS, Womens Health ]
 image: assets/images/01.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 toc: true
 comments: true
 ---
