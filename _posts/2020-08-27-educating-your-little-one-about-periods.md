@@ -22,7 +22,7 @@ Now the most common question that would arise in their minds is why do I get my 
 
 So, there is nothing to feel dirty or impure when you hear about periods/menstruation, let’s talk about periods the way it is.
 
-### Points to be remembered:
+### Points to be remembered
 + Women should always keep track of their last period date, this will keep them well prepared for the next period. 
 + For few girls, once they get their first period, it may be irregular and it might take about 2-3 years for a regular cycle and this is completely normal. 
 + After a certain age, if the periods get delayed by >10 days and have an irregular pattern then she may seek a doctor.

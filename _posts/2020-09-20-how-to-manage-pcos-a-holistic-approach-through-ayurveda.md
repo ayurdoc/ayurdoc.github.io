@@ -22,35 +22,35 @@ The balanced diet should include proteins rich foods, low-glycaemic index (GI) 
 
 #### What to eat and what to avoid?
 ##### Fruits and Vegetables
-+ Low GI(Glycaemic Index) Fruits like apples, dried apricot, under-ripe banana, peaches, oranges, cranberries, blueberries, plums, grapes, pears, coconut.
-+ Low GI Vegetables like carrot, green peas, onions, lettuce, greens (spinach, kale, collards, beet) green beans, tomatoes, cucumbers, mushrooms, broccoli, sprouts.
++ Consume low GI(Glycaemic Index) Fruits like apples, dried apricot, under-ripe banana, peaches, oranges, cranberries, blueberries, plums, grapes, pears, coconut.
++ Consume low GI Vegetables like carrot, green peas, onions, lettuce, greens (spinach, kale, collards, beet) green beans, tomatoes, cucumbers, mushrooms, broccoli, sprouts.
 + Don’t consume fruits and vegetable which are off-season. Because seasonal fruits and vegetables grow under appropriate weather condition without any artificial influencer which is healthy, they have their own natural color, flavor and their nutrition level are high and affordable too.
 + Sugar-sweetened carbonated beverages like soda, cola, fruit juice, bottled smoothies, etc., are zero or low in nutrients. Instead, eat fresh seasonal fruits which will help reduce insulin demand.
 
 ##### Grains/Legumes/Nuts/Seeds
-+ Low GI grains like barley, whole wheat, all bran and fiber one cereals, oat bran, rice bran cereals. Legumes like	all types of beans, spilt peas, black-eyed peas, lentils, lima			beans. 
++ You can consume low GI grains like barley, whole wheat, all bran and fiber one cereals, oat bran, rice bran cereals. Legumes like	all types of beans, spilt peas, black-eyed peas, lentils, lima beans. 
 + Also includes nuts (almond, walnut, roasted cashew, pistachios) and seeds like flaxseed, pumpkin seed, sesame seeds, sunflower seeds, quinoa, chia seeds, fenugreek.
 
 ##### Dairy Products
 + Low GI dairy products and its substitutes- skim, low-fat milk, plain yogurt, cottage cheese, soy milk, and yogurt.
-+ Some studies show to limit or to avoid dairy products as Insulin growth factor-1 (IGF-1) is found to be a much higher in PCOS women and the exact same IGF-1 structure is found in cow milk products. Therefore, PCOS women with insulin resistance can avoid	or limit dairy products.
++ Some studies suggest limiting or avoiding dairy products. Insulin growth factor-1 (IGF-1) which is found to be much higher in PCOS women, the exact same IGF-1 structure is also found in cow milk products. Therefore, PCOS women with insulin resistance can avoid	or limit dairy products.
 
 ##### Carbohydrates
-+ Carbohydrate free and very low-carbohydrate foods are chicken, turkey, eggs, fish and shellfish, olive oil, ghee.
-+ Avoid	sugary foods like ice cream, candy, cookies, cake, biscuit, sweetened cereals, etc.  Also Reduce salt intake.
-+ By avoiding refined carbs like white bread, pastries, pizza dough, pasta, etc., will help in weight loss and which in turn decreases androgen levels which is responsible for acne, facial hair growth, irregular cycles, etc.
-+ Avoid saturated fat and Trans-fat food like French fries, burger, pizza, doughnuts, fried chicken, nachos, and also all packed processed food. Instead, you can use ghee (clarified butter), virgin olive oil, avocado, seeds, and nuts which are the good sources of	healthy fats.
++ Carbohydrate free and very low-carbohydrate foods are chicken, turkey, eggs, fish and shellfish, olive oil, ghee are good to consume.
++ Avoid	sugary foods like ice cream, candy, cookies, cake, biscuit, sweetened cereals, etc.  Also, Reduce salt intake.
++ Avoiding refined carbs like white bread, pastries, pizza dough, pasta, etc., helps in weight loss, further decreasing the androgen levels which is responsible for acne, facial hair growth, irregular cycles, etc.
++ Avoid saturated fat and Trans-fat food like French fries, burger, pizza, doughnuts, fried chicken, nachos, and also all packed and processed food. Instead, you can use ghee (clarified butter), virgin olive oil, avocado, seeds, and nuts which are the good sources of	healthy fats.
 
 ##### Anti-inflammatory diet
-+ An anti-inflammatory diet which again includes the above-mentioned vegetables, fruits, legumes, grains, nuts and add spices like turmeric, clove, cinnamon, ginger, black pepper, cayenne, garlic, etc. These foods are high in monounsaturated fats, omega 3’s, fiber, and antioxidants.
-+ Avoid	alcohol, coffee, and other caffeinated drinks like tea, green tea because as it can cause more inflammation
++ An anti-inflammatory diet that includes the above-mentioned vegetables, fruits, legumes, grains, nuts and spices like turmeric, clove, cinnamon, ginger, black pepper, cayenne, garlic, etc., are good. These foods are high in monounsaturated fats, omega 3’s, fiber, and antioxidants.
++ Avoid	alcohol, coffee, and other caffeinated drinks like tea, green tea as it can cause more inflammation
 
 ##### Antioxidant foods
-+ Studies show that Antioxidant-rich foods help in reduction in testosterone and insulin resistance.
++ Studies show that Antioxidant-rich foods help in the reduction of testosterone and insulin resistance.
 + Be cautious about the chemical toxins which are seen in food stored in plastic containers, a plastic wrap made from PVC, and food	cooked in non-stick or aluminum utensils. Avoid foods containing pesticides and chemicals in vegetables, fruits, meat, milk, poultry, etc.
 + Buy fresh, organic products and cook in a clay pot or iron cast utensils.
 
-Overall a healthy diet, seasonal fruits and vegetables, lean protein source like beans, pea, lentils, skinless white meat poultry, cottage cheese (paneer), tofu, egg, low fat milk etc. are beneficial.
+Overall a healthy diet containing seasonal fruits and vegetables, lean protein source like beans, pea, lentils, skinless white meat poultry, cottage cheese (paneer), tofu, egg, low fat milk etc. are beneficial.
 
 ### Vihara 
 In Ayurveda, the Vihara concept is subjected to Dinacharaya (day regimen), Ratricharya (night regimen), Ritucharya (seasonal regimen), Sadavritta (the norms to be followed). By following these the quality of life can be enhanced and helps in the prevention and management of PCOS conditions. The concept Vihara is vast, I shall cover this in a seperate post.

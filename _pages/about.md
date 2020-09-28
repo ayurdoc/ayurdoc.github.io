@@ -18,7 +18,7 @@ As a Clinical Research Associate published various articles and was a part of t
 
 <div class="sticky-top sticky-top-80">
 <img src="assets/images/raksha_01.jpg">
-
+<br><br>
 <p>You can <a target="_blank" href="/about">Consult</a> Dr. Raksha Suvarna.</p>
 
 <a target="_blank" href="https://www.practo.com/bangalore/doctor/dr-raksha-suvarna-gynecologist-obstetrician" class="btn btn-warning">Consultation</a>
