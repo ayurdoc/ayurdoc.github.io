@@ -23,11 +23,13 @@ Now the most common question that would arise in their minds is why do I get my 
 So, there is nothing to feel dirty or impure when you hear about periods/menstruation, let’s talk about periods the way it is.
 
 ### Points to be remembered
-+ Women should always keep track of their last period date, this will keep them well prepared for the next period. 
++ It is always good to keep track of their last period date, this will keep them well prepared for the next period. 
 + For few girls, once they get their first period, it may be irregular and it might take about 2-3 years for a regular cycle and this is completely normal. 
 + After a certain age, if the periods get delayed by >10 days and have an irregular pattern then she may seek a doctor.
 + Heavy bleeding and who tend to change pads within 2 hours are not normal.
 + Severe cramps and severe PMS are not normal.
 + Change pad/tampon every 4-6 hours and maintain local hygiene. 
 + Having a balanced diet and indulging in physical activity helps to balance the hormone, which leads to regularising the cycle and reducing the symptoms like cramps and PMS. To know more about the diet and exercise check the [menstrual cycle diet and physical activity page](/what-to-eat-and-what-to-avoid-during-menstrual-cycle). 
-+ In Ayurveda, we can find a lot of reference regarding, the regimen to be followed during the menstrual cycle, normal and abnormal menstrual cycle and the treatments. Herbs and diet mentioned in the ayurvedic texts work wonderfully in all the gynaecological disorders. 
++ In Ayurveda, we can find a lot of reference regarding, the regimen to be followed during the menstrual cycle, normal and abnormal menstrual cycle and the treatments. Herbs and diet mentioned in the ayurvedic texts work wonderfully in all the gynaecological disorders.
+
+You can educate your kid about puberty, menstruation, and reproductive health. Tell them to have good health and hygiene. Make them understand that it is completely normal to talk to you about it. By educating them before having their first period will help them not to get anxious and to be prepared for it.
