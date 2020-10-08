@@ -1,17 +1,13 @@
 ---
-layout: default
-title: Blog
+layout: page
+title: All Stories
+permalink: /blog
+comments: false
 ---
 
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
-
-    <div class="section-title">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
 
     <div class="row listrecent">
 
